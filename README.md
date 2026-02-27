@@ -28,3 +28,24 @@ The script saves:
 - First run downloads MNIST automatically via torchvision.
 - Works on CPU. If you have a GPU + CUDA, PyTorch will use it automatically.
 
+---
+
+## Group Members
+
+- Nawaf Alqahtani  
+- Nasser Al Malki  
+- Mohammed Ajwah  
+- Yazzed Alsheri  
+- Maria Almansour  
+
+## Group Contributions
+
+**Nawaf Alqahtani** – Project coordination, repository setup, final integration, model tuning, and overall review.
+
+**Nasser Al Malki** – CNN model architecture design and explanation of layer choices (convolution, pooling, dropout).
+
+**Mohammed Ajwah** – Training pipeline implementation, dataset splitting, and hyperparameter experimentation.
+
+**Yazzed Alsheri** – Model evaluation, confusion matrix generation, and accuracy analysis.
+
+**Maria Almansour** – Report writing, formatting, references, and presentation of results.
