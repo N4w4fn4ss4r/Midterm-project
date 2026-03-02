@@ -1,7 +1,7 @@
 # AI 100 Midterm Project Report: MNIST Digit Classification
 
-**Name:** <YOUR NAME HERE>  
-**Date:** <DATE>
+**Name:** <Nasser Almalki, Nawaf Alqahtani, Mohammed Ajwah, Yazeed Alshehri, Maria Almansour>  
+**Date:** <March 1, 2026>
 
 ## 1) Problem definition and dataset curation
 **Goal.** Classify a 28x28 grayscale image of a handwritten digit into one of 10 classes (0–9). This is a standard multi-class image classification problem.
